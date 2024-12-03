@@ -1,0 +1,19 @@
+{
+  "name": "xreat-panel",
+  "version": "0.0.1",
+  "description": "a mod of the skyport panel with extra features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xreatlabs/xreat-panel.git"
+  },
+  "author": "xreatlabs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xreatlabs/xreat-panel/issues"
+  },
+  "homepage": "https://github.com/Xreatlabs/xreat-panel#readme"
+}
