@@ -26,4 +26,4 @@ Stay connected with us for updates and announcements regarding xreat-panel. We a
 
 **this is but a hobby project!**
 
-## xreatelabs
+## xreatelabs~
